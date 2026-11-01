@@ -1,4 +1,4 @@
-# soccer
+# club soccer schedule API
 
 Kids club soccer made easy.
 
